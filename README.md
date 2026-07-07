@@ -6,7 +6,8 @@ Free online tools for students and developers like image compressor, PDF tools, 
 - Image Compressor Tool
 - PDF Tools (Merge, Split, Compress)
 - SEO Tools (Meta Tags, Sitemap, Robots.txt)
-- 🚀 Live Website: https://samiryt677u.github.io/free-online-tools/
+- ## 🌐 Live Website  
+👉 [Click Here to Open](https://samiryt677u.github.io/free-online-tools/)
 
 👉 🌐 **Visit Website:** https://mytoolshub.co.in/
 
